@@ -1,0 +1,78 @@
+Sources
+
+-remove function
+https://www.tutorialspoint.com/c_standard_library/c_function_remove.htm
+
+-Sergio
+ideas behind isalpha, isdigit, checkRestOfLine function
+
+-strcat
+https://www.tutorialspoint.com/c_standard_library/c_function_strcat.htm
+
+-rewind
+https://www.tutorialspoint.com/c_standard_library/c_function_rewind.htm
+
+-strcpy
+https://www.tutorialspoint.com/c_standard_library/c_function_strcpy.htm
+
+-strncmp
+Dr. M
+http://www.cplusplus.com/reference/cstring/strncmp/
+https://www.tutorialspoint.com/c_standard_library/c_function_strncmp.htm
+
+-using strtol instread of atoi
+https://stackoverflow.com/questions/8871711/atoi-how-to-identify-the-difference-between-zero-and-error
+https://www.tutorialspoint.com/c_standard_library/c_function_strtol.htm
+
+-sprintf
+https://www.tutorialspoint.com/c_standard_library/c_function_sprintf.htm
+
+-strcat
+https://www.tutorialspoint.com/c_standard_library/c_function_strcat.htm
+
+-make
+https://www.gnu.org/software/make/manual/html_node/index.html#Top
+
+-function pointer
+https://stackoverflow.com/questions/840501/how-do-function-pointers-in-c-work
+http://www.geeksforgeeks.org/function-pointer-in-c/
+https://www.cprogramming.com/tutorial/function-pointers.html
+
+-file pointer
+https://stackoverflow.com/questions/28355142/how-to-keep-file-handle-open-in-c-after-exiting-function
+https://stackoverflow.com/questions/32449008/c-segmentation-fault-when-passing-a-null-pointer-despite-a-conditional-telling-t
+https://stackoverflow.com/questions/32449008/c-segmentation-fault-when-passing-a-null-pointer-despite-a-conditional-telling-t
+
+-fopen
+http://www.cplusplus.com/reference/cstdio/fopen/
+
+-cmd ln errors/warnings
+https://stackoverflow.com/questions/18906190/why-am-i-getting-this-error-warning-data-definition-has-no-type-or-storage-cla
+https://stackoverflow.com/questions/7965437/undefined-reference-to-main-collect2-ld-returned-1-exit-status
+
+-strchr
+https://www.tutorialspoint.com/c_standard_library/c_function_strchr.htm
+
+-file open modes
+https://stackoverflow.com/questions/21113919/difference-between-r-and-w-in-fopen
+
+-strtol
+http://en.cppreference.com/w/c/string/byte/strtol
+https://www.techonthenet.com/c_language/standard_library_functions/stdlib_h/strtol.php
+https://www.tutorialspoint.com/c_standard_library/c_function_strtol.htm
+
+-sprintf
+https://www.tutorialspoint.com/c_standard_library/c_function_sprintf.htm
+
+-misc input/output
+https://stackoverflow.com/questions/4264127/correct-format-specifier-for-double-in-printf
+
+-double to str
+https://stackoverflow.com/questions/7228438/convert-double-float-to-string
+
+-escape sequences
+http://www.geeksforgeeks.org/escape-sequences-c/
+https://stackoverflow.com/questions/14271474/how-to-read-newline-character-in-c
+
+-exp in c
+https://stackoverflow.com/questions/213042/how-do-you-do-exponentiation-in-c
